@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\bin\Debug\net7.0\cSharpIntro.exe
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\bin\Debug\net7.0\cSharpIntro.deps.json
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\bin\Debug\net7.0\cSharpIntro.runtimeconfig.json
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\bin\Debug\net7.0\cSharpIntro.dll
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\bin\Debug\net7.0\cSharpIntro.pdb
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.dll
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\refint\cSharpIntro.dll
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.pdb
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\cSharpIntro.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\dotnet-8\BaronAdrian-net8-learning\cSharpIntro\cSharpIntro\obj\Debug\net7.0\ref\cSharpIntro.dll
